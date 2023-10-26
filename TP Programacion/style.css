@@ -1,0 +1,31 @@
+body {
+    padding: 15px;
+    background-color: white;
+    color: black;
+    font-size: 15px;
+  }
+  
+  .dark-mode {
+    background-color: black;
+    color: white;
+  }
+ p{
+    color: blue;
+    background-color: yellow;
+    font: size 50px;
+    text-align:centers
+}
+img{
+    width: 150px;
+}
+h1{
+    color:red;
+}
+  h2{
+    color:purple;
+}
+ #itemImg:hover {
+    height: 200px;
+    transition: height 0.1s;
+    opacity: 50%;
+  }
